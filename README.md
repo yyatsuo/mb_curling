@@ -10,12 +10,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 You can also simply open an issue with the tag "enhancement". 
 Thanks😊
 
-# Licnse
+# License
 Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 
 # Acknowledgement
 Without these great open-source software, I wouldn't be able to start my project.
 Thanks to all the developers who contributed to these projects!
-
 * [FreeCAD](https://www.freecad.org/)
 * [KiCad](https://www.kicad.org/)
