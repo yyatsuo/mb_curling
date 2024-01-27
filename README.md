@@ -11,7 +11,7 @@ You can also simply open an issue with the tag "enhancement".
 Thanks😊
 
 # License
-Distributed under the MIT License. See ```LICENSE.txt``` for more information.
+Distributed under the Solderpad Hardware License V2.1. See ```LICENSE.txt``` for more information.
 
 # Acknowledgement
 Without these great open-source software, I wouldn't be able to start my project.
